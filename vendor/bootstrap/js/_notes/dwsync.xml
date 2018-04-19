@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <file name="bootstrap.min.js.map" server="5xx.slayartworx.com" local="131669327201943608" remote="131669480400000000" Dst="2" />
 <file name="bootstrap.min.js" server="5xx.slayartworx.com" local="131669327201923551" remote="131669480400000000" Dst="2" />
 <file name="bootstrap.js.map" server="5xx.slayartworx.com" local="131669327201913523" remote="131669480400000000" Dst="2" />
@@ -18,5 +19,15 @@
 <file name="bootstrap.bundle.min.js" server="5xx.slayartworx.com" local="131669480400000000" remote="131669480400000000" Dst="2" />
 <file name="bootstrap.bundle.js.map" server="5xx.slayartworx.com" local="131669480400000000" remote="131669480400000000" Dst="2" />
 <file name="bootstrap.bundle.js" server="5xx.slayartworx.com" local="131669480400000000" remote="131669480400000000" Dst="2" />
+>>>>>>> 502-0
+=======
+<file name="bootstrap.min.js.map" server="5xx.slayartworx.com" local="131686366444388316" remote="131686534800000000" Dst="2" />
+<file name="bootstrap.min.js" server="5xx.slayartworx.com" local="131686366444367931" remote="131686534800000000" Dst="2" />
+<file name="bootstrap.js.map" server="5xx.slayartworx.com" local="131686366444357896" remote="131686534800000000" Dst="2" />
+<file name="bootstrap.js" server="5xx.slayartworx.com" local="131686366444330109" remote="131686534800000000" Dst="2" />
+<file name="bootstrap.bundle.min.js.map" server="5xx.slayartworx.com" local="131686366444317793" remote="131686534800000000" Dst="2" />
+<file name="bootstrap.bundle.min.js" server="5xx.slayartworx.com" local="131686366444297732" remote="131686534800000000" Dst="2" />
+<file name="bootstrap.bundle.js.map" server="5xx.slayartworx.com" local="131686366444278901" remote="131686534800000000" Dst="2" />
+<file name="bootstrap.bundle.js" server="5xx.slayartworx.com" local="131686366444220870" remote="131686534800000000" Dst="2" />
 >>>>>>> 502-0
 </dwsync>

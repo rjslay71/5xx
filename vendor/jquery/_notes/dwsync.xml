@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <file name="jquery.slim.min.map" server="5xx.slayartworx.com" local="131669327202104082" remote="131669480400000000" Dst="2" />
 <file name="jquery.slim.min.js" server="5xx.slayartworx.com" local="131669327202083971" remote="131669480400000000" Dst="2" />
 <file name="jquery.slim.js" server="5xx.slayartworx.com" local="131669327202073953" remote="131669480400000000" Dst="2" />
@@ -14,5 +15,13 @@
 <file name="jquery.min.map" server="5xx.slayartworx.com" local="131669480400000000" remote="131669480400000000" Dst="2" />
 <file name="jquery.min.js" server="5xx.slayartworx.com" local="131669480400000000" remote="131669480400000000" Dst="2" />
 <file name="jquery.js" server="5xx.slayartworx.com" local="131669480400000000" remote="131669480400000000" Dst="2" />
+>>>>>>> 502-0
+=======
+<file name="jquery.slim.min.map" server="5xx.slayartworx.com" local="131686366444663754" remote="131686534800000000" Dst="2" />
+<file name="jquery.slim.min.js" server="5xx.slayartworx.com" local="131686366444638683" remote="131686534800000000" Dst="2" />
+<file name="jquery.slim.js" server="5xx.slayartworx.com" local="131686366444618634" remote="131686534800000000" Dst="2" />
+<file name="jquery.min.map" server="5xx.slayartworx.com" local="131686366444558720" remote="131686534800000000" Dst="2" />
+<file name="jquery.min.js" server="5xx.slayartworx.com" local="131686366444538376" remote="131686534800000000" Dst="2" />
+<file name="jquery.js" server="5xx.slayartworx.com" local="131686366444511803" remote="131686534800000000" Dst="2" />
 >>>>>>> 502-0
 </dwsync>

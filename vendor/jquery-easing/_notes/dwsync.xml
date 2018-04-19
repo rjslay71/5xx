@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <file name="jquery.easing.min.js" server="5xx.slayartworx.com" local="131669327201973683" remote="131669480400000000" Dst="2" />
 <file name="jquery.easing.js" server="5xx.slayartworx.com" local="131669327201963651" remote="131669480400000000" Dst="2" />
 <file name="jquery.easing.compatibility.js" server="5xx.slayartworx.com" local="131669327201953626" remote="131669480400000000" Dst="2" />
@@ -8,5 +9,10 @@
 <file name="jquery.easing.min.js" server="5xx.slayartworx.com" local="131669480400000000" remote="131669480400000000" Dst="2" />
 <file name="jquery.easing.js" server="5xx.slayartworx.com" local="131669480400000000" remote="131669480400000000" Dst="2" />
 <file name="jquery.easing.compatibility.js" server="5xx.slayartworx.com" local="131669480400000000" remote="131669480400000000" Dst="2" />
+>>>>>>> 502-0
+=======
+<file name="jquery.easing.min.js" server="5xx.slayartworx.com" local="131686366444438105" remote="131686534800000000" Dst="2" />
+<file name="jquery.easing.js" server="5xx.slayartworx.com" local="131686366444428083" remote="131686534800000000" Dst="2" />
+<file name="jquery.easing.compatibility.js" server="5xx.slayartworx.com" local="131686366444418072" remote="131686534800000000" Dst="2" />
 >>>>>>> 502-0
 </dwsync>
